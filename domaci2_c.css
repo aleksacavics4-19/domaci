@@ -1,0 +1,109 @@
+*{
+
+    margin: 0px;
+    padding: 0px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+
+}
+
+table{
+
+    border: 2px solid green;
+    border-collapse: collapse;
+
+}
+
+th{
+
+    border: 2px solid green;
+    border-collapse: collapse;
+
+}
+
+td{
+
+    border: 2px solid green;
+    border-collapse: collapse;
+
+}
+
+.naslov1{
+
+    text-align: center;
+    background-color: blue;
+
+}
+
+.naslov2{
+
+    text-align: right;
+    background-color: yellow;
+
+}
+
+.naslov3{
+
+    text-align: left;
+    background-color: rgb(49, 190, 6);
+
+}
+
+#drugi1{
+
+    text-align: center;
+    color: red;
+    background-color: rgb(49, 190, 6);
+
+}
+
+#drugi2{
+
+    text-align: right;
+    color: red;
+    background-color: rgb(49, 190, 6);
+
+}
+
+#drugi3{
+
+    text-align: :left;
+    color: red;
+    background-color: rgb(49, 190, 6);
+
+}
+
+.forma{
+
+    margin: 0px auto;
+    width: 500px;
+    border-style: solid;
+    border-color: rgb(49, 190, 6);
+
+}
+
+.tekst{
+
+    padding: 20px;
+
+}
+
+label{
+
+    width: 150px;
+    display: inline-block;
+    text-align: right;
+
+}
+
+.taster{
+    
+    margin-left: 151px;
+    padding: 20px;
+
+}
+
+.taster2{
+
+    width: 100px;
+
+}
