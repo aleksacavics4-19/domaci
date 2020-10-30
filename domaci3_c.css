@@ -1,0 +1,139 @@
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color:rgb(11, 11, 61);
+    }
+
+li {
+    float: left;
+    border-right: 1px solid white; 
+}
+  
+li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+     }
+  
+li a:hover {
+    background-color:lightblue;
+  }
+
+.active {
+    background-color: yellow;
+  }
+
+.cetralni {
+    width: 1200px;
+    background-color: cadetblue;
+    
+}
+
+.login{
+    float: left;
+    width: 300px;
+    border-right: solid grey;
+    height: 555px;
+}
+
+.roba {
+    width: 800px;
+    float: left;
+}
+
+.patike1 {
+    float: inline-start;
+    text-align: center;
+    padding: 30px;
+}
+
+.slikapatika {
+    width: 200px;
+    height: 200px;
+}
+
+.kol{
+    display: inline-block;
+    padding: 5px;
+    width: 50px;
+    margin: 0px;
+}
+
+.br{
+    display: inline-block;
+    width: 50px;
+    padding: 0px;
+    margin-top: 5px;
+
+}
+
+.kupi{
+    display: inline-block;
+}
+
+.vesti {
+    width: 300px;
+    float: right;
+    text-align: left;
+    border-left: solid grey;
+    height: 555px;
+    padding: 0px 10px;
+}
+
+h4{
+    margin: auto;
+}
+
+.slikavesti {
+    width: 300px;
+    height: 200px;
+    padding: 20px;
+
+}
+
+.footer {
+    margin: 0;
+    clear: both;
+    width:100%;
+    position: relative;
+    background-color: darkslateblue;
+    color: rgba(44, 5, 44, 0.699);
+}
+
+.header {
+    background-color: darkslateblue;
+}
+
+label{
+    display: inline-block;
+    width: 200px;
+    padding: 5px 5px;
+}
+
+textarea{
+    width: 150px;
+    margin: bottom 50px;
+    float: right;
+    margin-right: 25px;
+}
+
+input{
+    width: 150px;
+    float: right;
+    margin-right: 25px;
+}
+
+select{
+    display: inline-block;
+    width: 154px;
+    float: right;
+    margin-right: 25px;
+}
+
+.dugme{
+    margin: 5px 25px;
+    width: 100px;
+}
