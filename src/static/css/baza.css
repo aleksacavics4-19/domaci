@@ -1,0 +1,61 @@
+
+
+.nastavnici{
+    text-decoration: none;
+    color: black;
+    transition: 0.4s;
+}
+
+.nastavnici:hover{
+    color: #85c232;
+}
+
+#raspored tr:nth-child(even){
+    background-color: lightblue;
+    border: black 1px solid;
+
+}
+
+
+#raspored tr:nth-child(odd){
+    background-color: rgb(32, 122, 196);
+}
+
+.ucionice{
+    text-decoration: none;
+    color: black;
+    transition: 0.4s;
+}
+
+.ucionice:hover{
+    color: #85c232;
+}
+
+.na{
+    margin-right: 5px;
+    float: left;
+}
+
+#zaglavlje{
+    background-color: blue;
+    font-weight: bold;
+    text-align: left;
+    border: 2px solid black;
+}
+
+table{
+    border-collapse: collapse;
+}
+
+td{
+    border-right: black solid 1px;
+}
+
+th{
+    border-right: solid black 2px;
+}
+
+.uc{
+    width: 200px;
+    float: left;
+}
